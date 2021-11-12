@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ca75f88-88e6-4651-85c7-ef96ac7cc627" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/orderonline-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/orderonline-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderonline-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/orderonline-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderonline-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/orderonline-app/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/orderonline-app" />
+  </component>
+  <component name="ProjectId" id="1y9yxpn8omi0m38WABuelZBud1X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ca75f88-88e6-4651-85c7-ef96ac7cc627" name="Changes" comment="" />
+      <created>1631678348929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631678348929</updated>
+      <workItem from="1631678351369" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
